@@ -1,0 +1,15 @@
+Especificação do sistema:
+
+Uma especificação de programa é a definição do que se espera que um programa de computador faça. 
+Ela pode ser informal, neste caso ela pode ser considerada como um blueprint ou manual de usuário do ponto de vista do desenvolvedor,
+ou formal, no caso de ela ser definida principalmente em termos matemáticos ou programáticos.
+
+Na prática, as especificações mais bem sucedidas são escritas para a compreensão e ajustes em uma aplicação que já se encontra bem desenvolvida,
+embora sistemas de sistemas de segurança críticos sejam cuidadosamente especificados antes do desenvolvimento da aplicação.
+
+No caso do nosso projeto deve realizar uma consulta,inclusão e alteração relacionadas as placas de sistemas ou principal produto na empresa.
+Onde o usuario final deve utilizar do sistema para realizar um maior controle sobre cada produto, levando em conta cada caracteristica especifica da placa.
+
+
+Deve atender a nescecidade do usuario e gerar assim um maior controle de qualidade , que atualmente é a maior defasagem na empresa. Cada usuario tem
+seu login proprio para que possa acessar certas informações.
