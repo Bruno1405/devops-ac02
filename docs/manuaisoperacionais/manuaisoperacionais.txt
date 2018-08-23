@@ -1,0 +1,3 @@
+Manual operacional é basicamente um manual de instruções com informações contida sobre o projeto que está em desenvolvimento, contando com especificações e detalhes de como foi feito e vai ser aplicado.
+O manual é seguido por introdução, público alvo, visão gera, produto encolhido, sistema envolvido entre outros tópicos.
+Por exemplo, o software, o manual é explicando como instalar seguido por um passo a passo para que quem ler consiga realizar sem nenhum problema.
