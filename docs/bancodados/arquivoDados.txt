@@ -1,0 +1,16 @@
+Criação de Banco de Dados de exemplos. 
+Como deverá proceder os dados no gihub em dados.
+
+O banco de dados vai ser analisado inicialmente pelo MER e DER
+Vão ser criados as tabelas pelo comando create table nome arquivo.
+Criação de campos, de tipo de campo, tamanhos e campos.
+Criação de indices primary key e indices estrangeiros.
+
+Vão ser alteradas tabelas conforme a necessidade das alterções.
+
+Vão ser excluidos campos ou tabelas conforme alterações e exclusões.
+
+As consultas de tabelas vão ser através do select detalhando a consulta.
+
+
+
