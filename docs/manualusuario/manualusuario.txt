@@ -1,0 +1,7 @@
+	Este manual irá tirar todas as duvidas tanto do usuário final quanto
+para questões de suporte/manutenção. O manual irá abranger desde 
+processos básicos, até processos mais avançados para sanar todas as dúvidas 
+possíveis.
+	O usuário final serão os clientes que irão fazer a aquisição
+do produto e os usuários para suporte/manutenção seriam a equipe responsável
+para suporte o usuário final, no caso, os clientes.
